@@ -45,5 +45,5 @@ Este projeto foi desenvolvido por: Mariana Freire, Marilza Santos e Diogenes Leo
 ![Contas a pagar](imagens/image-6.png)
 
 ## Demonstração
-<video controls src="imagens/video.mp4" title="Title"></video>
+<video controls src="video.mp4" title="Title"></video>
 
