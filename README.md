@@ -1,5 +1,5 @@
 # DMS Soluções
-![image](https://github.com/mariana1166/DMS_Solucoes/assets/170054126/970b68cd-42d9-4d82-bfa8-53c3b205075e)
+![Capa](imagens/capa.png)
 
 
 ## Descrição 
