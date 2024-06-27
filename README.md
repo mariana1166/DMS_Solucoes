@@ -1,6 +1,5 @@
 # DMS Soluções
-![Capa](imagens/capa.png)
-
+![Capa](imagens/capa.PNG)
 
 ## Descrição 
 
