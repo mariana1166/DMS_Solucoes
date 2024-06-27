@@ -35,15 +35,15 @@ Este projeto foi desenvolvido por: Mariana Freire, Marilza Santos e Diogenes Leo
 
 ## Layout
 ### Telas de Controle
-![Monitoramentos de Contratos](image.png)
-![Despesas de Funcionarios](image-1.png)
-![Contas a pagar](image-3.png)
-![Contas a receber](image-4.png)
+![Monitoramentos de Contratos](imagens/image.png)
+![Despesas de Funcionarios](imagens/image-1.png)
+![Contas a pagar](imagens/image-3.png)
+![Contas a receber](imagens/image-4.png)
 ### Telas de Cadastro
-![Cadastro de Despesas](image-2.png)
-![Contas a receber](image-5.png)
-![Contas a pagar](image-6.png)
+![Cadastro de Despesas](imagens/image-2.png)
+![Contas a receber](imagens/image-5.png)
+![Contas a pagar](imagens/image-6.png)
 
 ## Demonstração
-<video controls src="Vídeo WhatsApp 2024-06-27 às 12.20.47_0c6fb660-1.mp4" title="Title"></video>
+<video controls src="imagens/Vídeo WhatsApp 2024-06-27 às 12.20.47_0c6fb660-1.mp4" title="Title"></video>
 
